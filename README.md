@@ -56,13 +56,6 @@ Python (v3.8 or higher)
 API Keys for Cerebras and Stability AI.
 1. Clone the Repository
 
-Bash
-
-
-git clone [https://github.com/your-username/cognimation.git](https://github.com/your-username/cognimation.git)
-cd cognimation
-
-
 2. Backend Setup
 Navigate to the backend folder and install the python dependencies.
 
