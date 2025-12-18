@@ -1,6 +1,6 @@
 # Cognimation - AI Virtual Tutor
 
-![Project Screenshots](Screenshot%202025-12-15%20173628.png)
+![Project Screenshots](ss-2.png)
 
 > **Experience learning like never before with an interactive 3D companion.**
 
