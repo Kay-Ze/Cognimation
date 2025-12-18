@@ -1,6 +1,8 @@
 # Cognimation - AI Virtual Tutor
 
-![Project Screenshots](ss-2.png)
+<img src="Screenshots/ss-3.png" alt="Project Screenshots" width="500">
+<img src="Screenshots/ss-2.png" alt="Project Screenshots" width="500">
+<img src="Screenshots/ss-4.png" alt="Project Screenshots" width="500">
 
 > **Experience learning like never before with an interactive 3D companion.**
 
